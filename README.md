@@ -13,6 +13,8 @@ http://localhost/lab2/
 
 2 Buat file baru dengan nama phpdasar.php pada directory tersebut. Kemudian buat source code seperti
 berikut;
+
+// source code PHP Anda
 '''
 <!DOCTYPE html>
 <html lang="en">
@@ -27,4 +29,3 @@ echo "Hello World";
 ?>
 </body>
 </html>
-'''
