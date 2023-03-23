@@ -14,9 +14,8 @@ http://localhost/lab2/
 2 Buat file baru dengan nama phpdasar.php pada directory tersebut. Kemudian buat source code seperti
 berikut;
 
-// source code PHP Anda
 '''
-<!DOCTYPE html>
+//<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
